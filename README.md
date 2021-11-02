@@ -25,5 +25,5 @@ If you have questions please write me on PM or e-mail: gornickimichal@gmail.com
 
 ## Version history
 
-27.10.2021 - 1.00 - Final version of project for presentation.
-02.11.2021 - 1.01 - Weight in kg problem fixed. Source of problem was "query exceeds complexity limit" error in Space X GraphQL. After query simplification problem was fixed.
+###### 27.10.2021 - 1.00 - Final version of project for presentation.
+###### 02.11.2021 - 1.01 - Weight in kg problem fixed. Source of problem was "query exceeds complexity limit" error in Space X GraphQL. After query simplification problem was fixed.
